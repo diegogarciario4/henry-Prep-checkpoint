@@ -62,6 +62,7 @@ Debes crear una hoja de estilos **externa** llamada `estilo1.css` y dentro escri
 En este ejercicio vas trabajar en `ejercicio2.html`, escribiendo código para que contenga:
 
 * un div con el id #div-negro de color negro y tengas las siguientes propiedades:
+
     - un margin de 30 px arriba y abajo.
     - un borde superior de 1px, el inferior de 30px, el izquierdo de 1 px y el derecho de 20px, todos de color negro y estilo `solid`
     - padding de 10px arriba y abajo, y 5px izquierda y derecha.

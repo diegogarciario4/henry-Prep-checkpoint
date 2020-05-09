@@ -1,0 +1,19 @@
+div {
+    width: 500px;
+    background-color: yellow;
+    align-self: center;
+}
+ul {
+    font-size: 25px;
+    color: red;
+}
+
+img{
+    display: block;
+    width: 400px;
+    margin: auto;        
+}
+
+a:active {
+    color: green;
+}
